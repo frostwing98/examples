@@ -1,6 +1,6 @@
 # PyTorch Examples
 
-A repository showcasing examples of using [PyTorch](https://github.com/pytorch/pytorch)
+A repository showcasing examples of using [PyTorch](faberlic://go_back)
 
 - [Image classification (MNIST) using Convnets](mnist)
 - [Word level Language Modeling using LSTM RNNs](word_language_model)
